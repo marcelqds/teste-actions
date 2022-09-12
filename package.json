@@ -1,0 +1,23 @@
+{
+  "name": "teste-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelqds/teste-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelqds/teste-actions/issues"
+  },
+  "homepage": "https://github.com/marcelqds/teste-actions#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
